@@ -1,4 +1,6 @@
 uva
 banana
-abacaxiiiii
+abacaxi
 pera
+maca
+melancia
